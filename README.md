@@ -1,1 +1,2 @@
-all of the files will contain a .EXE of the version you are downloading this game is made on GameMaker Lite so sorry for the Watermark
+all of the files will contain a .EXE of the version you are downloading this game is made on GameMaker Lite so sorry for the Watermark.
+Also to open the .EXE just go to your files and go to downloads or wherever the download showed up then double click on it or right click on it and click the open button from there you should be able to open the game and play. If you have any problems tell me and I will help you fix it. If your reading this thank you for visiting my repository and if you download the game hope you enjoy it!
